@@ -1,0 +1,10 @@
+C:\Users\Christian Arroyo\Desktop\SOAP_REST_JSON\ClienteJSON\ClienteJSON\bin\Debug\ClienteJSON.exe.config
+C:\Users\Christian Arroyo\Desktop\SOAP_REST_JSON\ClienteJSON\ClienteJSON\bin\Debug\ClienteJSON.exe
+C:\Users\Christian Arroyo\Desktop\SOAP_REST_JSON\ClienteJSON\ClienteJSON\bin\Debug\ClienteJSON.pdb
+C:\Users\Christian Arroyo\Desktop\SOAP_REST_JSON\ClienteJSON\ClienteJSON\obj\Debug\ClienteJSON.csprojAssemblyReference.cache
+C:\Users\Christian Arroyo\Desktop\SOAP_REST_JSON\ClienteJSON\ClienteJSON\obj\Debug\ClienteJSON.Form1.resources
+C:\Users\Christian Arroyo\Desktop\SOAP_REST_JSON\ClienteJSON\ClienteJSON\obj\Debug\ClienteJSON.Properties.Resources.resources
+C:\Users\Christian Arroyo\Desktop\SOAP_REST_JSON\ClienteJSON\ClienteJSON\obj\Debug\ClienteJSON.csproj.GenerateResource.cache
+C:\Users\Christian Arroyo\Desktop\SOAP_REST_JSON\ClienteJSON\ClienteJSON\obj\Debug\ClienteJSON.csproj.CoreCompileInputs.cache
+C:\Users\Christian Arroyo\Desktop\SOAP_REST_JSON\ClienteJSON\ClienteJSON\obj\Debug\ClienteJSON.exe
+C:\Users\Christian Arroyo\Desktop\SOAP_REST_JSON\ClienteJSON\ClienteJSON\obj\Debug\ClienteJSON.pdb

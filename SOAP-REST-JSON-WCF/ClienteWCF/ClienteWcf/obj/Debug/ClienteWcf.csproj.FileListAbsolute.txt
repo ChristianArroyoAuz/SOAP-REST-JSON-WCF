@@ -1,0 +1,10 @@
+C:\Users\Christian Arroyo\Desktop\SOAP_REST_JSON\ClienteWCF\ClienteWcf\bin\Debug\ClienteWcf.exe.config
+C:\Users\Christian Arroyo\Desktop\SOAP_REST_JSON\ClienteWCF\ClienteWcf\bin\Debug\ClienteWcf.exe
+C:\Users\Christian Arroyo\Desktop\SOAP_REST_JSON\ClienteWCF\ClienteWcf\bin\Debug\ClienteWcf.pdb
+C:\Users\Christian Arroyo\Desktop\SOAP_REST_JSON\ClienteWCF\ClienteWcf\obj\Debug\ClienteWcf.csprojAssemblyReference.cache
+C:\Users\Christian Arroyo\Desktop\SOAP_REST_JSON\ClienteWCF\ClienteWcf\obj\Debug\ClienteWcf.Form1.resources
+C:\Users\Christian Arroyo\Desktop\SOAP_REST_JSON\ClienteWCF\ClienteWcf\obj\Debug\ClienteWcf.Properties.Resources.resources
+C:\Users\Christian Arroyo\Desktop\SOAP_REST_JSON\ClienteWCF\ClienteWcf\obj\Debug\ClienteWcf.csproj.GenerateResource.cache
+C:\Users\Christian Arroyo\Desktop\SOAP_REST_JSON\ClienteWCF\ClienteWcf\obj\Debug\ClienteWcf.csproj.CoreCompileInputs.cache
+C:\Users\Christian Arroyo\Desktop\SOAP_REST_JSON\ClienteWCF\ClienteWcf\obj\Debug\ClienteWcf.exe
+C:\Users\Christian Arroyo\Desktop\SOAP_REST_JSON\ClienteWCF\ClienteWcf\obj\Debug\ClienteWcf.pdb

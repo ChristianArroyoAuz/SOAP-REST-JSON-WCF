@@ -1,0 +1,9 @@
+C:\Users\Christian Arroyo\Desktop\SOAP_REST_JSON\ClienteRest\ClienteRest\bin\Debug\ClienteRest.exe.config
+C:\Users\Christian Arroyo\Desktop\SOAP_REST_JSON\ClienteRest\ClienteRest\bin\Debug\ClienteRest.exe
+C:\Users\Christian Arroyo\Desktop\SOAP_REST_JSON\ClienteRest\ClienteRest\bin\Debug\ClienteRest.pdb
+C:\Users\Christian Arroyo\Desktop\SOAP_REST_JSON\ClienteRest\ClienteRest\obj\Debug\ClienteRest.Form1.resources
+C:\Users\Christian Arroyo\Desktop\SOAP_REST_JSON\ClienteRest\ClienteRest\obj\Debug\ClienteRest.Properties.Resources.resources
+C:\Users\Christian Arroyo\Desktop\SOAP_REST_JSON\ClienteRest\ClienteRest\obj\Debug\ClienteRest.csproj.GenerateResource.cache
+C:\Users\Christian Arroyo\Desktop\SOAP_REST_JSON\ClienteRest\ClienteRest\obj\Debug\ClienteRest.csproj.CoreCompileInputs.cache
+C:\Users\Christian Arroyo\Desktop\SOAP_REST_JSON\ClienteRest\ClienteRest\obj\Debug\ClienteRest.exe
+C:\Users\Christian Arroyo\Desktop\SOAP_REST_JSON\ClienteRest\ClienteRest\obj\Debug\ClienteRest.pdb
